@@ -27,7 +27,7 @@ I am a self-motivated, curious person with a great desire to learn and improve a
 ![Assembly](https://img.shields.io/badge/-Assembly-333333?style=flat&logo=assemblyscript)
 
 ## 🔗 Contact Me
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/cenciarinigabriel)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cenciarinigabriel)
 [![instagram](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/gabicenciarini/)
 [![gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail)](mailto:cenciariniag@gmail.com)
 
