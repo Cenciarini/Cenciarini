@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 I am an advanced student of mechatronic engineering with knowledge and experience in a wide range of technologies.
-Expected to graduate in July 2025
+Expected to graduate in Nov 2025
 I am a self-motivated, curious person with a great desire to learn and improve as a professional
 
 👩‍💻 I am currently working on improving the speed and quality of scientific research at my university through a solution that uses CNNs to detect and count microalgae in microscopic images with great precision and speed.
