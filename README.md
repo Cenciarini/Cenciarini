@@ -3,13 +3,12 @@
 
 
 ## 👨‍💻 About Me
-I am an advanced student of mechatronic engineering with knowledge and experience in a wide range of technologies.
-Expected to graduate in Nov 2025
+I am mechatronic engineer with knowledge and experience in a wide range of technologies.
 I am a self-motivated, curious person with a great desire to learn and improve as a professional
 
-👩‍💻 I am currently working on improving the speed and quality of scientific research at my university through a solution that uses CNNs to detect and count microalgae in microscopic images with great precision and speed.
+👩‍💻 I have worked on improving the speed and quality of scientific research at my university through a solution that uses CNNs to detect and count microalgae in microscopic images with great precision and speed.
 
-🧠 I am currently learning to design and program CNNs with YOLO architecture using PyTorch
+🧠 I am currently working worldwide on the implementation of industrial equipment and high-complexity process control using PLCs, HMIs, and SCADAs
 
 👯‍♀️ I am looking to collaborate on a project that will challenge me and allow me to improve in some of the technologies I already know. I am also open to projects that allow me to learn new technologies.
 
@@ -28,6 +27,5 @@ I am a self-motivated, curious person with a great desire to learn and improve a
 
 ## 🔗 Contact Me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cenciarinigabriel)
-[![instagram](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/gabicenciarini/)
 [![gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail)](mailto:cenciariniag@gmail.com)
 
