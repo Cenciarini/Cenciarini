@@ -6,7 +6,7 @@
 I am mechatronic engineer with knowledge and experience in a wide range of technologies.
 I am a self-motivated, curious person with a great desire to learn and improve as a professional
 
-👩‍💻 I have worked on improving the speed and quality of scientific research at my university through a solution that uses CNNs to detect and count microalgae in microscopic images with great precision and speed.
+👩‍💻 I have worked on improving the speed and quality of scientific research at my university through a solution that uses CNNs to detect and count microalgae in microscopic images with great precision and speed. I also have worked with FPGAs using VHDL.
 
 🧠 I am currently working worldwide on the implementation of industrial equipment and high-complexity process control using PLCs, HMIs, and SCADAs
 
